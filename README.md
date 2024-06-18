@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yun</h1>
+<h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurenluyun" alt="laurenluyun" /></a> </p>
 
-- 🔭 I’m currently working at **Amotions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/laurenluyun](https://github.com/laurenluyun)
-
 - 📫 How to reach me **laurenluyun6@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14_rd7IUyGAIMDiEMlwZjuuYi4qgNGpen/view?pli=1](https://drive.google.com/file/d/14_rd7IUyGAIMDiEMlwZjuuYi4qgNGpen/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
